@@ -1,0 +1,22 @@
+{
+  "name": "WritingAnimationLikeGPT",
+  "version": "0.1.0",
+  "summary": "It will give you a Chat GPT Like writing animation for you view.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shashigupta/WritingAnimationLikeGPT",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shashigupta": "shashigupta@csod.com"
+  },
+  "source": {
+    "git": "https://github.com/shashigupta/WritingAnimationLikeGPT.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "WritingAnimationLikeGPT/Classes/**/*"
+}

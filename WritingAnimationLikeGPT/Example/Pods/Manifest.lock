@@ -1,0 +1,16 @@
+PODS:
+  - WritingAnimationLikeGPT (0.1.0)
+
+DEPENDENCIES:
+  - WritingAnimationLikeGPT (from `../`)
+
+EXTERNAL SOURCES:
+  WritingAnimationLikeGPT:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WritingAnimationLikeGPT: 2c65a6d7e3160abc7224d20cd3e59986e69820f1
+
+PODFILE CHECKSUM: 020f52582ff6670318024f07e68c1e92c275c248
+
+COCOAPODS: 1.14.3

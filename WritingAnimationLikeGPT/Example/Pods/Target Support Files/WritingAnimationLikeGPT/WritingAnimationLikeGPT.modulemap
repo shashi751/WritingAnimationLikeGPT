@@ -1,0 +1,6 @@
+framework module WritingAnimationLikeGPT {
+  umbrella header "WritingAnimationLikeGPT-umbrella.h"
+
+  export *
+  module * { export * }
+}
